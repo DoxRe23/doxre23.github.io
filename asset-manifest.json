@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bd05756.css",
-    "main.js": "/static/js/main.a92f66ba.js",
+    "main.css": "/static/css/main.322e247d.css",
+    "main.js": "/static/js/main.67a8933c.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/FotoWisuda.jpg": "/static/media/FotoWisuda.f827e4696f8654570280.jpg",
     "static/media/Brosur3D.png": "/static/media/Brosur3D.76348f7bad4c587ae79d.png",
     "static/media/MySF.png": "/static/media/MySF.8cbd0e479d4c63c5c4da.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/Brosur3D.pdf": "/static/media/Brosur3D.fda0a7ac03f4a61fa0b2.pdf",
+    "static/media/Brosur3D.pdf": "/static/media/Brosur3D.ab5019366ff11923ffd0.pdf",
     "static/media/bg-dark.png": "/static/media/bg-dark.b4b843ace2f6bbe75343.png",
     "static/media/MyPhoto.jpg": "/static/media/MyPhoto.b5f0fee8ec28dd433cb9.jpg",
     "static/media/BrosurSentimen.pdf": "/static/media/BrosurSentimen.fe1acdcc38faac260363.pdf",
@@ -17,12 +17,12 @@
     "static/media/FotoHimpunan.jpg": "/static/media/FotoHimpunan.6a0e946c582a7c8cbd1d.jpg",
     "static/media/FotoMaba.jpg": "/static/media/FotoMaba.a0dfbf93eefc736681f6.jpg",
     "index.html": "/index.html",
-    "main.2bd05756.css.map": "/static/css/main.2bd05756.css.map",
-    "main.a92f66ba.js.map": "/static/js/main.a92f66ba.js.map",
+    "main.322e247d.css.map": "/static/css/main.322e247d.css.map",
+    "main.67a8933c.js.map": "/static/js/main.67a8933c.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bd05756.css",
-    "static/js/main.a92f66ba.js"
+    "static/css/main.322e247d.css",
+    "static/js/main.67a8933c.js"
   ]
 }
